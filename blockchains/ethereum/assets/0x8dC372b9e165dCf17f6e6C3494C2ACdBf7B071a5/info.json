@@ -1,0 +1,17 @@
+{
+  "name": "SEIFCOIN",
+  "symbol": "SFC",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "SEIFCOIN - Le Pouvoir d’une Idée. Le premier token inspiré par la force, la liberté... et l’épée.",
+  "website": "https://seifcoin.github.io",
+  "explorer": "https://etherscan.io/token/0x8dC372b9e165dCf17f6e6C3494C2ACdBf7B071a5",
+  "status": "active",
+  "id": "0x8dC372b9e165dCf17f6e6C3494C2ACdBf7B071a5",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/seifcoin"
+    }
+  ]
+}
